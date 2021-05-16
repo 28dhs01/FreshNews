@@ -13,8 +13,5 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
 
-        <item name="backgroundColor">@color/dark_mode</item>
-        <item name="elevationOverlayEnabled">true</item>
-        <item name="android:elevation">12dp</item>
     </style>
 </resources>
